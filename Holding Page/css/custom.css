@@ -1,0 +1,35 @@
+body{
+  font-family: 'Open Sans', Arial, sans-serif;
+  color: #343F40;
+  background-color: #ffffff;
+}
+
+a, a:hover, a:active{
+  color: #FC5D20;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.jumbotron{
+  background-color: #ffffff;
+  margin-bottom: 0;
+}
+
+h1{
+  color: #343F40;
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 70px;
+}
+
+h2{
+  color: #343F40;
+  font-weight: bold;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+.orange{
+  color: #FC5D20;
+}
